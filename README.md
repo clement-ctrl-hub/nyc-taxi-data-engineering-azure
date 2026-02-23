@@ -39,3 +39,8 @@ Mettre en place une architecture simple de type Lakehouse sur Azure et démontre
 - Transformation avec Spark  
 - Requêtes SQL analytiques  
 - Exposition des données pour la BI  
+
+
+## Aperçu du dataset
+
+![Aperçu du dataset](images/dataset_preview.png)
